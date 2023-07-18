@@ -81,6 +81,7 @@ http://localhost:3001/api/products/id
 ## License
 
 [MIT License](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributions
 I am open to ideas and contributions
