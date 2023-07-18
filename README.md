@@ -14,7 +14,7 @@ Back end code for an e-commerce website using Express.js API , Sequelize and MyS
 
 ## Description 
 Starter code is provided. I used express js, sequelize, dotenv to interact with the MySQL database that was provided.
-The code syncs sequelize models to MySQL database. There are three main end points to this application. They are : 1. categories 2. Products 3. Tags
+The code syncs sequelize models to MySQL database. There are three main end points to this application. They are : 1. Categories 2. Products 3. Tags
 
 **In Categories** :
 GET all categories , GET single category by ID, POST (Create) a new category, PUT (update) an existing category by ID, and DELETE an existing category by ID.
@@ -24,7 +24,7 @@ GET all categories , GET single category by ID, POST (Create) a new category, PU
 GET all products , GET single product by ID, POST (Create) a new product, PUT (update) an existing product by ID, and DELETE an existing product by ID.
 
   
-**Tags** : 
+**In Tags** : 
 GET all tags , GET single tag by ID, POST (Create) a new tag, PUT (update) an existing tag by ID, and DELETE an existing tag by ID.
 
 
