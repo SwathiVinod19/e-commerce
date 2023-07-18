@@ -74,6 +74,8 @@ http://localhost:3001/api/products/id
 
 
 ## Walkthrough Video
+[Video link](https://drive.google.com/file/d/1GWgAFAmZ7Lfuy-0HEFhAnKABv0iOiROq/view)
+
 
 ## Screenshots
 
