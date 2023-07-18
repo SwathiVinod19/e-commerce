@@ -79,6 +79,19 @@ http://localhost:3001/api/products/id
 
 ## Screenshots
 
+![e-commerce-GET-Categories](https://github.com/SwathiVinod19/e-commerce/assets/129353324/1ae8f49c-9741-40a2-bf5c-f227a40dda50)
+GET Categories
+
+![e-commerce-PUT-tags](https://github.com/SwathiVinod19/e-commerce/assets/129353324/7cc5eff5-f695-4ba6-bba8-2dc93f79aaa4)
+PUT Tags
+
+![e-commerce-POST-Categories](https://github.com/SwathiVinod19/e-commerce/assets/129353324/96bf26de-8dd9-4657-b6e1-52723b8a1478)
+POST Categories
+
+![e-commerce-DELETE-Products](https://github.com/SwathiVinod19/e-commerce/assets/129353324/2e7aaef6-44a1-4903-a93d-21de8f48499a)
+DELETE Products
+
+
 
 ## License
 
