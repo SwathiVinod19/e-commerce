@@ -35,7 +35,7 @@ GET all tags , GET single tag by ID, POST (Create) a new tag, PUT (update) an ex
 * [Walkthrough Video](#Walkthrough-video)
 * [Screenshots](#Screenshots)
 * [License](#license)
-* [Contributing](#contributing)
+* [Contributions](#contributions)
 * [Questions](#questions)
 
 ## Installation
@@ -59,11 +59,17 @@ DB_PW='YOUR PASSWORD'
 * Make POST and PUT requests following the JSON formats. 
 * Access API routes with Insomnia/Thunder Client using the following endpoints:
 
-**CATEGORY/PRODUCTS/TAGS : GET(ALL)**
+**CATEGORY/PRODUCTS/TAGS : GET(ALL), POST(CREATE)**
 ```
 http://localhost:3001/api/categories/
 http://localhost:3001/api/products/
 http://localhost:3001/api/tags/ 
+```
+**CATEGORY/PRODUCTS/TAGS : GET(BY ID), PUT(UPDATE), DELETE**
+```
+http://localhost:3001/api/categories/id
+http://localhost:3001/api/tags/id
+http://localhost:3001/api/products/id
 ```
 
 
@@ -75,6 +81,13 @@ http://localhost:3001/api/tags/
 ## License
 
 [MIT License](https://opensource.org/licenses/MIT)
+
+## Contributions
+I am open to ideas and contributions
+
+## Questions
+
+Contact : [SwathiVinod19](https://github.com/SwathiVinod19)
 
 
 
